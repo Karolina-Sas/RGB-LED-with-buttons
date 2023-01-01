@@ -27,6 +27,11 @@ while True:
         g_LED.value(0)
         b_LED.value(0)
         
+    if button3.value()==1 and button3.value2()==1:
+        r_LED.value(1)
+        g_LED.value(1)
+        b_LED.value(0)
+        
     else:
         r_LED.value(0)
         g_LED.value(0)
