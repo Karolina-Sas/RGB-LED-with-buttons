@@ -1,5 +1,7 @@
 # RGB-LED-with-buttons
 
+In this scheme, the RGB LED is controlled by three buttons. They can be pressed simultaneously and depending on the press, the LED emits a different color of light. 
+
 ## Tools and materials used   :electric_plug:
 
 - Raspberry Pi Pico - RP2040
